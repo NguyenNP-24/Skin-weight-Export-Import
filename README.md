@@ -11,4 +11,5 @@ UV mode: Map using vertex UV coordinate
   
 Workflow:   
     Select mesh > Export Button > Save in folder     
-     Select mesh > Choose Mapping method > Import Button > Find the JSON file
+     Select mesh > Choose Mapping method > Import Button > Find the JSON file  
+Detail processing here: https://www.youtube.com/watch?v=a4UmL9ietJU
