@@ -1,3 +1,5 @@
+https://extensions.blender.org/add-ons/import-export-skin-weights/
+
 # Skin-weight-Export-Import
 An simple add-on for Blender Exporting and Importing skin weights from mesh to JSON using Position or UV mapping method.  
 Use to export vertex group, UV position and influences of all vertex of selected mesh to JSON file, then can be reimported with any mesh with same hierachy skeleton. (works best with meshes with same topology, or same UV)
